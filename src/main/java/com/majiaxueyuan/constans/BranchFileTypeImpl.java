@@ -18,8 +18,6 @@ public enum BranchFileTypeImpl implements BranchFileType {
     }),
     BRANCH_DOC("doc", new String[]{
             "pdf", "doc", "docx", "ppt", "pptx", "xls", "xlsx"
-    }),
-    BRANCH_DEFAULT("default", new String[]{
     });
 
 
