@@ -59,9 +59,9 @@
 
     <scm>
         <tag>master</tag>
-        <url>git@github.com:liaoxiang1229/majia-sso.git</url>
-        <connection>scm:git:git@github.com:liaoxiang1229/majia-sso.git</connection>
-        <developerConnection>scm:git:git@github.com:liaoxiang1229/majia-sso.git</developerConnection>
+        <url>git@github.com:lxmajia/file-cdn.git</url>
+        <connection>scm:git:git@github.com:lxmajia/file-cdn.git</connection>
+        <developerConnection>scm:git:git@github.com:lxmajia/file-cdn.git</developerConnection>
     </scm>
 
     <profiles>
