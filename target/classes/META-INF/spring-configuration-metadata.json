@@ -1,0 +1,47 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.majiaxueyuan.properties.GitProperties",
+      "name": "mj.cdn",
+      "type": "com.majiaxueyuan.properties.GitProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.majiaxueyuan.properties.GitProperties",
+      "name": "mj.cdn.access-token",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.majiaxueyuan.properties.GitProperties",
+      "name": "mj.cdn.default-branch",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.majiaxueyuan.properties.GitProperties",
+      "name": "mj.cdn.enabled",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "com.majiaxueyuan.properties.GitProperties",
+      "name": "mj.cdn.mapping-class",
+      "type": "java.lang.Class<? extends com.majiaxueyuan.constans.BranchFileType>"
+    },
+    {
+      "sourceType": "com.majiaxueyuan.properties.GitProperties",
+      "name": "mj.cdn.repos",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.majiaxueyuan.properties.GitProperties",
+      "name": "mj.cdn.type",
+      "type": "com.majiaxueyuan.constans.CdnType"
+    },
+    {
+      "sourceType": "com.majiaxueyuan.properties.GitProperties",
+      "name": "mj.cdn.user-id",
+      "type": "java.lang.String"
+    }
+  ]
+}

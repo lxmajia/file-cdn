@@ -1,0 +1,13 @@
+com\majiaxueyuan\core\CdnServer.class
+com\majiaxueyuan\core\GiteeCdnServer.class
+com\majiaxueyuan\vo\Req.class
+com\majiaxueyuan\properties\GitProperties.class
+com\majiaxueyuan\core\GithubCdnServer.class
+META-INF\spring-configuration-metadata.json
+com\majiaxueyuan\vo\Resp.class
+com\majiaxueyuan\core\CdnServerAbstract.class
+com\majiaxueyuan\vo\RespContent.class
+com\majiaxueyuan\constans\CdnType.class
+com\majiaxueyuan\config\GitAutoConfiguration.class
+com\majiaxueyuan\constans\BranchFileTypeImpl.class
+com\majiaxueyuan\constans\BranchFileType.class
